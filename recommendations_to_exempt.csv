@@ -1,0 +1,74 @@
+﻿Business Impact,Recommendation
+Low,Diagnostic logs in Logic Apps should be enabled
+Medium,Storage accounts should restrict network access using virtual network rules
+Low,Access to storage accounts with firewall and virtual network configurations should be restricted
+Medium,Storage account should use a private link connection
+Medium,Virtual machines and virtual machine scale sets should have encryption at host enabled
+Medium,Container registries should not allow unrestricted network access
+High,[Preview] Container images in Azure registry should have vulnerability findings resolved
+High,Azure registry container images should have vulnerabilities resolved
+High,[Preview] Container images in Azure registry should have vulnerability findings resolved
+High,[Preview] Container images in Azure registry should have vulnerability findings resolved
+High,Azure Kubernetes Service clusters should have the Azure Policy add-on for Kubernetes installed
+Medium,Container registries should not allow unrestricted network access
+High,[Preview] Container images in Azure registry should have vulnerability findings resolved
+High,[Preview] Container images in Azure registry should have vulnerability findings resolved
+High,[Preview] Container images in Azure registry should have vulnerability findings resolved
+High,[Preview] Container images in Azure registry should have vulnerability findings resolved
+Low,Diagnostic logs in Kubernetes services should be enabled
+High,Kubernetes API server should be configured with restricted access
+Medium,Container registries should use private link
+Medium,Container registries should use private link
+High,[Preview] Container images in Azure registry should have vulnerability findings resolved
+High,[Preview] Container images in Azure registry should have vulnerability findings resolved
+High,[Preview] Container images in Azure registry should have vulnerability findings resolved
+High,Microsoft Defender CSPM should be enabled
+High,There should be more than one owner assigned to subscriptions
+Low,Azure Backup should be enabled for virtual machines
+Medium,Guest Configuration extension should be installed on machines
+Low,Virtual networks should be protected by Azure Firewall
+Medium,Storage accounts should restrict network access using virtual network rules
+Medium,Virtual machines and virtual machine scale sets should have encryption at host enabled
+Medium,Guest Configuration extension should be installed on machines
+Medium,Virtual machines and virtual machine scale sets should have encryption at host enabled
+Low,Azure Backup should be enabled for virtual machines
+High,Linux virtual machines should enable Azure Disk Encryption or EncryptionAtHost.
+Low,Access to storage accounts with firewall and virtual network configurations should be restricted
+Low,Guest Attestation extension should be installed on supported Linux virtual machines
+Medium,Storage account should use a private link connection
+Medium,Virtual machines and virtual machine scale sets should have encryption at host enabled
+Low,Azure Backup should be enabled for virtual machines
+Medium,Azure Event Grid topics should use private link
+High,Linux virtual machines should enable Azure Disk Encryption or EncryptionAtHost.
+Medium,Guest Configuration extension should be installed on machines
+Medium,Virtual machines and virtual machine scale sets should have encryption at host enabled
+High,Linux virtual machines should enable Azure Disk Encryption or EncryptionAtHost.
+Low,Guest Attestation extension should be installed on supported Linux virtual machines
+Low,Guest Attestation extension should be installed on supported Linux virtual machines
+Medium,Storage accounts should restrict network access using virtual network rules
+Medium,Storage account should use a private link connection
+Low,Access to storage accounts with firewall and virtual network configurations should be restricted
+High,There should be more than one owner assigned to subscriptions
+High,Microsoft Defender CSPM should be enabled
+High,There should be more than one owner assigned to subscriptions
+High,Microsoft Defender CSPM should be enabled
+High,There should be more than one owner assigned to subscriptions
+High,Microsoft Defender CSPM should be enabled
+Medium,Virtual machines and virtual machine scale sets should have encryption at host enabled
+Low,Azure Backup should be enabled for virtual machines
+Low,Virtual networks should be protected by Azure Firewall
+High,Linux virtual machines should enable Azure Disk Encryption or EncryptionAtHost.
+Medium,Virtual machines and virtual machine scale sets should have encryption at host enabled
+Medium,Guest Configuration extension should be installed on machines
+Low,Guest Attestation extension should be installed on supported Linux virtual machines
+Low,Azure Backup should be enabled for virtual machines
+High,Linux virtual machines should enable Azure Disk Encryption or EncryptionAtHost.
+Medium,Guest Configuration extension should be installed on machines
+Low,Guest Attestation extension should be installed on supported Linux virtual machines
+High,There should be more than one owner assigned to subscriptions
+High,Microsoft Defender CSPM should be enabled
+Low,Azure Backup should be enabled for virtual machines
+Low,Guest Attestation extension should be installed on supported Linux virtual machines
+High,Linux virtual machines should enable Azure Disk Encryption or EncryptionAtHost.
+Medium,Guest Configuration extension should be installed on machines
+Medium,Virtual machines and virtual machine scale sets should have encryption at host enabled
